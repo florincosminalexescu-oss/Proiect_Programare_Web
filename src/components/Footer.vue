@@ -16,7 +16,7 @@
 </a>
 
 
-<a>
+<a href="mailto:florincosmin.alexescu@ulbsibiu.ro">  
   <p> Email </p>
 </a>
 

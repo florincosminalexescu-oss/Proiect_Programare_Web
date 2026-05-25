@@ -11,9 +11,9 @@
     <p>2024 — prezent</p>
 
     <div class="status">
-      <div class="role"><p>Proiecte personale & open-source</p></div>
+      <div class="role"><p>Proiecte personale & auto-didact</p></div>
       <div class="company"><p>Independent</p></div>
-      <div class="desc"><p>Dezvoltarea și menținerea proiectelor personale pe GitHub, contribuții la comunitatea open-source și experimentarea cu diverse tehnologii și limbaje de programare.</p></div>
+      <div class="desc"><p>Dezvoltarea proiectelor personale pentru consolidarea cunoștințelor, urmărirea cursurilor online și tutorialelor pentru aprofundarea tehnologiilor web — HTML, CSS, JavaScript, Vue.js.</p></div>
     </div>
   </div>
 
@@ -43,9 +43,11 @@
   align-items: flex-start;
   justify-content: center;
   gap:40px;
+ 
+}
 
   
-}
+
 
 .info {
   display: flex;

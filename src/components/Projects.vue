@@ -97,6 +97,8 @@ try{
  if(!res.ok) throw new Error();
  const data=await res.json();
  repos.value=data.filter(r=> !r.fork)
+   .sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
+
 
 }
 

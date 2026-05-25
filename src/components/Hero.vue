@@ -4,15 +4,18 @@
       <p class="hero-subtitle">Disponibil pentru colaborare</p>
       <h1 class="hero-name">Florin Cosmin <br> <em>Alexescu</em></h1>
       <p class="hero-description">
-        Student IT cu pasiune pentru tehnologie și rezolvarea problemelor reale
-        prin cod. Explorez diverse domenii — de la web la algoritmi — și sunt
-        mereu în căutare de proiecte interesante.
+         Student IT cu pasiune pentru dezvoltare web și programare. 
+     Lucrez cu HTML, CSS, JavaScript și Vue.js, și explorez constant 
+      tehnologii noi pentru a deveni Full Stack Developer.
       </p>
       <div class="hero-tags">
-        <span class="tag">Student IT</span>
-        <span class="tag">Problem Solving</span>
-        <span class="tag">Open Source</span>
+        <span class="tag">Student </span>
+        <span class="tag">Frontend Developer</span>
+        <span class="tag">Vue.js</span>
         <span class="tag">GitHub</span>
+        <span class="tag">HTML</span>
+        <span class="tag">CSS</span>
+
       </div>
     </div>
 
@@ -27,13 +30,13 @@
 
 <style scoped>
 .hero {
-  max-width: 1600px;
+  max-width: 1800px;
   margin: 0 auto;
   display: flex;
   padding: 100px;
   align-items: center;
   justify-content: space-between;
-  gap: 4rem;
+  gap: 20px;
 }
 
 .hero-subtitle {

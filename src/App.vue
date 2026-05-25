@@ -1,6 +1,6 @@
 <script setup>
 import Education from './components/Education.vue';
-import Experince from './components/Experience.vue';
+import Experience from './components/Experience.vue';
 import Footer from './components/Footer.vue';
 import Hero from './components/Hero.vue';
 import NavBar from './components/NavBar.vue'
@@ -14,8 +14,9 @@ import Projects from './components/Projects.vue';
   <Projects id="projects">  </Projects>
 
   <Experience id="experience"> </Experience>
-  <Education id="education"> </Education>
 
+  <Education id="education"> </Education>
+  
   <Footer>  </Footer>
 
 

@@ -15,7 +15,7 @@
     <p>2020 — 2024</p>
 
     <div class="status">
-      <div class="role"><p>Studii superioare liceu</p></div>
+      <div class="role"><p>Liceu</p></div>
       <div class="company"><p>Liceul Teoretic Onisifor Ghibu Sibiu</p></div>
       <div class="desc"><p>Ore la materii fundamentale pentru formarea cunostintelor generale la materii ca informatica,matematica,engleza.</p>
       </div>
