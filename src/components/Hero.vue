@@ -76,8 +76,8 @@
 .tag {
   font-size: 12px;
   padding: 5px 12px;
-  background: #efecea;
-  color: #5c5a57;
+  background: #ceccca;
+  color: #52504e;
   border-radius: 999px;
   border: 1px solid #e8e5e0;
 }
